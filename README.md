@@ -1,6 +1,6 @@
 # Programas de la materia de Computacion Aplicada
 
-# Descripción Inicial
+# Descripción del Sistema de monitoreo de apiarios 
 
 Este trabajo desarrolla un **sistema de monitoreo para colmenas** que usa comunicación **LoRa** para enviar datos ambientales a larga distancia.  
 
