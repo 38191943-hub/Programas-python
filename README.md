@@ -1,10 +1,10 @@
-# Programas en la Clase de Computacion Aplicada
+# Programas de la Clase de Computacion Aplicada
 
 - Nombre: Braulio Adonai Ruelas Escobedo 
 
 - Correo: 38191943@uaz.edu.mx
 
-## Actividad 1 - Elementos Basicos: Parte 1
+## Actividad 2 - Elementos Basicos: Parte 1
 - p001-hola-mundo.py
 - p002-area-ciculo.py
 - p003-area-triangulo.py
