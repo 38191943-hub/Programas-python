@@ -41,5 +41,13 @@
 - p028-retira-cuenta.py
 - p029-calculadora-descuento.py
 
+## Actividad 7 - Programas hechos en clase
+- p052-tabla-conversion.py
+- p053-conjetura-collatz.py
+- p054-tabla-multiplicar-while-v1.py
+- p055-tabla-multiplicar-while-v2.py
+- p056-contador-vocales.py
+- p057-interes-simple.py
+
 
 
