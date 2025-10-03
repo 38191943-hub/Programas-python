@@ -77,5 +77,9 @@
 - p056-contador-vocales.py
 - p057-interes-simple.py
 
+## Actividad 8 Problema de repaso - Parcial 1 
+- p065-Sistema Papeleria
+  
+
 
 
